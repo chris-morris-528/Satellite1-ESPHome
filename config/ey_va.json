@@ -1,7 +1,7 @@
 {
     "type": "micro",
     "wake_word": "Ey Va",
-    "author": "Tater Totterson",
+    "author": "Chris MOrris",
     "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
     "model": "ey_va.tflite",
     "trained_languages": ["en"],
